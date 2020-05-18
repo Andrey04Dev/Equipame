@@ -1,0 +1,6 @@
+
+
+tr:hover td{ /* Cambia el color de la fila cuando pasamos el mouse por encima y cambia el cursos a una mano */
+    background:#A2E2FE;
+    cursor: pointer;
+}
